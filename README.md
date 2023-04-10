@@ -3,7 +3,7 @@
 <a href="https://github.com/catarinaguima/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catarinaguima/github-readme-stats">
   <img align="center" height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" />
 </a>
