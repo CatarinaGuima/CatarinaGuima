@@ -1,8 +1,11 @@
 ### Olá, sou Catarina Guimarães! 
 
 <a href="https://github.com/catarinaguima/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
-</a> <a href="https://github.com/catarinaguima/github-readme-stats"> <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> </a>
+  <img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
+</a> 
+<a href="https://github.com/catarinaguima/github-readme-stats"> 
+  <img align="center" height="250" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
+</a>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="cat-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />-
