@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/catarinaguima">
-  <img align="center"  width="350" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
+  <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
   <img align="center"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
 </a>
 </div>
