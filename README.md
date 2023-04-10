@@ -4,7 +4,7 @@
   <img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
 </a> 
 <a href="https://github.com/catarinaguima/github-readme-stats"> 
-  <img align="center" height="250" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
+  <img align="center" height="400" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
 </a>
 
 <div style="display: inline_block"><br>
