@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World, I'm Catarina! ⚝
+  Hello World, I'm Catarina! ⚝ Seja bem vindo(a) ao meu perfil GitHub! 🤍
 </h1>
 
 <div align="center">
