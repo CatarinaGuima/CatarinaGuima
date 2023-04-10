@@ -4,7 +4,7 @@
   <img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
 </a> 
 <a href="https://github.com/catarinaguima/github-readme-stats"> 
-  <img align="center" height="400" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
+  <img align="center" height="300" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
 </a>
 
 <div style="display: inline_block"><br>
@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/catarina-guimar%C3%A3es-49253676/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/catarinaguima/catarinaguima/blob/output/github-contribution-grid-snake.svg)
+
