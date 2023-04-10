@@ -3,11 +3,9 @@
 </h1>
 
 <div align="center">
-<a href="https://github.com/catarinaguima/convoychat">
+<a href="https://github.com/catarinaguima">
   <img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
-</a> 
-<a href="https://github.com/catarinaguima/github-readme-stats"> 
-  <img align="center" height="100" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
+  <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
 </a>
 </div>
 
