@@ -19,7 +19,7 @@
  <img align="center" alt="cat-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />              </div>
 
 ##
-<h3 align="justify">
+<h3 align="center">
   Connect with me
 </h3>
 
