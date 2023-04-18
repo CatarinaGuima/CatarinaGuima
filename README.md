@@ -19,14 +19,13 @@
  <img align="center" alt="cat-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />              </div>
 
 ##
-<h3 align="center">
+<h3 align="justify">
   Connect with me
 </h3>
 
 <div align="center"> 
   <a href="https://www.instagram.com/catarinaguimaraess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:catarina.guimaraes15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   <a href="https://www.linkedin.com/in/catarina-guimar%C3%A3es-49253676/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
