@@ -11,7 +11,7 @@
 ## Tools and Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,nodejs,java,react,python,oracleDB&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,nodejs,java,react,python,vscode&theme=dark" />
   </a>
 </p>
 
