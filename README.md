@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=22&pause=1000&color=8257E6&width=435&lines=Hello+World%2C+I'm+Catarina+Guimar%C3%A3es!+%E2%9A%9D+;Seja+bem+vindo(a)+ao+meu+perfil+GitHub.+%F0%9F%A4%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=22&pause=1000&color=F34089&width=435&lines=Hello+World%2C+I'm+Catarina+Guimar%C3%A3es!+%E2%9A%9D+;Seja+bem+vindo(a)+ao+meu+perfil+GitHub.+%F0%9F%A4%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 ## Tools and Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,nodejs,java,react,python,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,typescript,react,nextjs,tailwind,nodejs,java,python,git,github,netlify,vscode&theme=dark" />
   </a>
 </p>
 
