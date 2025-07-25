@@ -1,6 +1,10 @@
-<h1 align="center">
-  Hello World, I'm Catarina! ⚝ Seja bem vindo(a) ao meu perfil GitHub. 🤍
-</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=22&pause=1000&color=8257E6&width=435&lines=Hello+World%2C+I'm+Catarina+Guimar%C3%A3es!+%E2%9A%9D+;Seja+bem+vindo(a)+ao+meu+perfil+GitHub.+%F0%9F%A4%8D" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
 <a href="https://github.com/catarinaguima">
   <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
