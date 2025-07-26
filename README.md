@@ -5,6 +5,17 @@
   </a>
 </p>
 
+
+## Aqui, você encontrará uma amostra dos meus projetos e contribuições, além de um pouco mais sobre mim! 
+
+
+### Sobre Mim
+- 💻 **Front-end Developer** com formação em **Análise e Desenvolvimento de Sistemas** + **Administração**
+- 🚀 Especializada em: **React**, **Next.js**, **TypeScript** e **TailwindCSS**
+- ✨ Objetivo: Criar interfaces **acessíveis**, **performáticas** e **visualmente incríveis**
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
 <div align="center">
 <a href="https://github.com/catarinaguima">
   <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
@@ -24,4 +35,8 @@
   <a href="https://www.instagram.com/catarinaguimaraess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:catarina.guimaraes15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/catarinaguimaraess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="SEU_PORTAFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </div>
+
