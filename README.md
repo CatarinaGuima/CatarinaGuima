@@ -17,10 +17,8 @@
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <div align="center">
-<a href="https://github.com/catarinaguima">
-  <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=catarinaguima&show_icons=true&count_private=true&theme=radical" />
-  <img align="center"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinaguima&layout=compact&theme=radical" /> 
-</a>
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=catarinaguima&theme=radical" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catarinaguima&theme=radical" />
 </div>
 
 ## Tools and Technologies:
